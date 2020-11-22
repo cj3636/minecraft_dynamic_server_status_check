@@ -1,5 +1,5 @@
 #Minecraft Dynamic Server Status and Info Checker.
-##A simple website that allows checking the status of large quantities of Minecraft Servers (Ping, MOTD, Online Players, etc.). 
+#A simple website that allows checking the status of large quantities of Minecraft Servers (Ping, MOTD, Online Players, etc.). 
 
 Requires PHP interpreter.
 
