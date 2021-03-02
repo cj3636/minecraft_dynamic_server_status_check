@@ -24,7 +24,7 @@ try {
   npmPackage = require('../../../package.json');
 }
 catch(error) {
-  // generate fake package
+  // genChar fake package
   npmPackage = {
     name: 'Unknown',
     version: 'x.x'
